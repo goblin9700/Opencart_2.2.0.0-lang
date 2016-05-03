@@ -1,12 +1,12 @@
 <?php
 // Heading
-$_ ['heading_title'] = 'Продукти';
+$_ ['heading_title'] = 'Товари';
 
 // Text
 $_ ['text_success'] = 'Успіх: Змінено продукти!';
 $_ ['text_list'] = 'Каталог товарів';
 $_ ['text_add'] = 'Додати продукт';
-$_ ['text_edit'] = 'Редагувати продукту';
+$_ ['text_edit'] = 'Редагування товару';
 $_ ['text_plus'] = '+';
 $_ ['text_minus'] = '-';
 $_ ['text_default'] = 'За замовчуванням';
