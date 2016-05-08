@@ -7,7 +7,7 @@ $_ ['text_account'] = 'Рахунок';
 $_ ['text_edit'] = 'Редагування інформації';
 $_ ['text_your_details'] = 'Ваші особисті дані';
 $_ ['text_your_address'] = 'Ваша адреса';
-$_ ['text_success'] = 'Ваш рахунок успішно оновлено.';
+$_ ['text_success'] = 'Ваші дані оновлено.';
 
 // Entry
 $_ ['entry_firstname'] = 'Ім\'я';

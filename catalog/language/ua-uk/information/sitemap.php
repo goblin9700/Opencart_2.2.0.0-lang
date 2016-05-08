@@ -1,10 +1,10 @@
 <?php
 // Heading
-$_ ['heading_title'] = 'Карта сайту';
+$_ ['heading_title'] = 'Мапа сайту';
 
 // Text
 $_ ['text_special'] = 'Спеціальні пропозиції';
-$_ ['text_account'] = 'Мої данні';
+$_ ['text_account'] = 'Мої дані';
 $_ ['text_edit'] = 'Відомості облікового запису';
 $_ ['text_password'] = 'Пароль';
 $_ ['text_address'] = 'Адресна книга';

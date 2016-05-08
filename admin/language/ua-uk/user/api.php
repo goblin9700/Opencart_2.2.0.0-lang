@@ -9,14 +9,14 @@ $_ ['text_add'] = 'Додати API';
 $_ ['text_edit'] = 'Редагувати API';
 
 // Column
-$_ ['column_username'] = 'Ім’я користувача';
+$_ ['column_username'] = 'Ім\’я користувача';
 $_ ['column_status'] = 'Стан';
 $_ ['column_date_added'] = 'Дата додавання';
 $_ ['column_date_modified'] = 'Дата змінення';
 $_ ['column_action'] = 'Дія';
 
 // Entry
-$_ ['entry_username'] = 'Ім’я користувача';
+$_ ['entry_username'] = 'Ім\’я користувача';
 $_ ['entry_password'] = 'Пароль';
 $_ ['entry_status'] = 'Стан';
 
