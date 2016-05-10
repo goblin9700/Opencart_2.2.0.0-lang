@@ -6,7 +6,7 @@ $_ ['heading_title'] = 'Зареєструватися';
 $_ ['text_account'] = 'Рахунок';
 $_ ['text_register'] = 'Зареєструватись';
 $_ ['text_account_already'] = 'Якщо Ви вже маєте обліковий запис, ввійдіть будь-ласка <a href="%s">тут</a>.';
-$_ ['text_your_details'] = 'Ваша особиста інформація';
+$_ ['text_your_details'] = 'Ваші особисті дані';
 $_ ['text_your_address'] = 'Ваша адреса';
 $_ ['text_newsletter'] = 'Розсилка новин';
 $_ ['text_your_password'] = 'Ваш пароль';
