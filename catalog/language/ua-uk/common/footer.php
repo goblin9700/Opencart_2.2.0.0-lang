@@ -12,6 +12,6 @@ $_ ['text_affiliate'] = 'Партнери';
 $_ ['text_special'] = 'Акції';
 $_ ['text_account'] = 'Мої дані';
 $_ ['text_order'] = 'Журнал замовлень';
-$_ ['text_wishlist'] = 'Список побажань';
+$_ ['text_wishlist'] = 'Товари, які сподобались';
 $_ ['text_newsletter'] = 'Стрічка новин';
 $_ ['text_powered'] = 'Працює на <a href="http://www.opencart.com">OpenCart</a><br /> %s &copy; %s';
